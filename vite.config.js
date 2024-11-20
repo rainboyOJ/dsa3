@@ -11,6 +11,7 @@ export default defineConfig({
             input: {
                 main: resolve(__dirname, 'index.html'),
                 dfs: resolve(__dirname, 'dfs/index.html'),
+                bfs: resolve(__dirname, 'bfs/index.html'),
             },
         },
     },
