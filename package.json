@@ -1,0 +1,24 @@
+{
+  "name": "dsa3",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "vue": "^3.5.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "ace-builds": "^1.36.5",
+    "add": "^2.0.6",
+    "animate.css": "^4.1.1",
+    "vite": "^5.4.10",
+    "vue3-ace-editor": "^2.2.4",
+    "yarn": "^1.22.22"
+  }
+}
